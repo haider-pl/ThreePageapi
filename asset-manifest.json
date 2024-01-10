@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/haider-pl/ThreePageapi/static/css/main.a4446e95.css",
+    "main.js": "/haider-pl/ThreePageapi/static/js/main.5cfa6750.js",
+    "index.html": "/haider-pl/ThreePageapi/index.html",
+    "main.a4446e95.css.map": "/haider-pl/ThreePageapi/static/css/main.a4446e95.css.map",
+    "main.5cfa6750.js.map": "/haider-pl/ThreePageapi/static/js/main.5cfa6750.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4446e95.css",
+    "static/js/main.5cfa6750.js"
+  ]
+}
